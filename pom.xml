@@ -93,7 +93,7 @@
       <snapshotRepository>
         <id>crm-project</id>
         <name>devops markonda</name>
-	<url>http://localhost:8081/repository/devops/</url>
+	<url>http://localhost:8081/repository/wallmart/</url>
       </snapshotRepository>
       <repository>
         <id>crm-project</id>
