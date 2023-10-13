@@ -1,0 +1,14 @@
+this is for pollscm
+
+updated for PollSCM configuration
+
+
+this is maven-web-application
+
+
+added one line
+
+updated config file
+
+
+testing the pollscm
