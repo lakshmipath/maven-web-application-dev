@@ -88,12 +88,12 @@
       <snapshotRepository>
         <id>nexus</id>
         <name>devops markonda</name>
-	<url>http://localhost:8081/repository/wallmart-snapshot/</url>
+	<url>http://localhost:8081/repository/uday/</url>
       </snapshotRepository>
       <repository>
         <id>nexus</id>
         <name>devops markonda</name>
-	<url>http://3.88.106.179:8081/devopsmarkonda/repository/crm-project/</url>
+	<url>http://localhost:8081/repository/uday/</url>
       </repository>	
    </distributionManagement>
 	
