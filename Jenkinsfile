@@ -9,7 +9,7 @@ pipeline {
     stages {
         stage('scm') {
             steps {
-               git branch: 'dev', credentialsId: 'git-credentials', url: 'https://github.com/markondareddy/maven-web-application.git'
+               git branch: 'master',  url: 'https://github.com/lakshmipath/maven-web-application-dev.git'
             }
         }   
         
